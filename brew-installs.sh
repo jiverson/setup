@@ -23,8 +23,8 @@ brew install grep
 brew install node
 
 brew install git
-# brew install git-lfs
-# brew install github/gh/gh
+brew install git-lfs
+brew install github/gh/gh
 
 brew install zsh
 
